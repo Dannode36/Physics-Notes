@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "f1cd6660617af270",
+    "type": "split",
+    "children": [
+      {
+        "id": "40ac7d07e9d908db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f415821ab808997e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Module 5 - Advanced Mechanics/Balls on Strings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b79ba840a6bba448",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdc0a58a0f8d8be9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5066116f84a47723",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08025d833f228b45",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f6677738e2f39c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 218.5
+  },
+  "right": {
+    "id": "0210c1512ab313d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "708f30ec63429523",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62050fa2114a234f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Module 5 - Advanced Mechanics/Balls on Strings.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac8b530d19166b17",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Module 5 - Advanced Mechanics/Balls on Strings.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2eef139fc6d4ff53",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "31864c1c0a2ea219",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Module 5 - Advanced Mechanics/Balls on Strings.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5066116f84a47723",
+  "lastOpenFiles": [
+    "Notes/Images",
+    "Notes/Images/Ball on String (M5IQ2).png",
+    "Notes/Module 5 - Advanced Mechanics/Banked Tracks.md",
+    "Notes/Module 5 - Advanced Mechanics/Balls on Strings.md",
+    "Notes/Module 5 - Advanced Mechanics/Class Work/27-10-2023.md",
+    "Notes/Module 5 - Advanced Mechanics/Circular Motion.md",
+    "Notes/Module 5 - Advanced Mechanics/Projectile Motion.md",
+    "Notes/Module 5 - Advanced Mechanics/Class Work",
+    "2023-10-27.md",
+    "Notes/Module 5 - Advanced Mechanics/Topics/Topic 1 - Projectile Motion.md",
+    "Notes/Index.md",
+    "Notes/Module 5 - Advanced Mechanics/Topics",
+    "Notes/Module 5 - Advanced Mechanics",
+    "Notes"
+  ]
+}
